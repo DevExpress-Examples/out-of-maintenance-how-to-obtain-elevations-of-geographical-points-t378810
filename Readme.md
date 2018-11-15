@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/BingElevationDataWpf/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/BingElevationDataWpf/MainWindow.xaml))**
+* [MainWindow.xaml.cs](./CS/BingElevationDataWpf/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/BingElevationDataWpf/MainWindow.xaml))
+<!-- default file list end -->
 # How to obtain elevations of geographical points
 
 
